@@ -1,4 +1,8 @@
 # 4.Execution_of_NetworkCommands
+
+## Developed By : SANJAY M
+## Register No  : 212223230187
+
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -49,5 +53,5 @@ GETMAC:
 HOSTNAME:
 ![alt text](<Screenshot 2024-04-12 083805.png>)
 
-Result
+Result:
 Thus Execution of Network commands Performed
