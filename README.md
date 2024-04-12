@@ -27,6 +27,27 @@ This commands includes
 <BR>
 
 ## Output
+IPCONFIG:
+![alt text](<Screenshot 2024-04-12 083328.png>)
 
-## Result
-Thus Execution of Network commands Performed 
+NBTSTAT:
+![alt text](<Screenshot 2024-04-12 083442.png>)
+
+TRACERT:
+![alt text](<Screenshot 2024-04-12 083648.png>)
+
+PING:
+![alt text](<Screenshot 2024-04-12 083659.png>)
+
+NETSTAT:
+![alt text](<Screenshot 2024-04-12 083729.png>)
+![alt text](<Screenshot 2024-04-12 083752.png>)
+
+GETMAC:
+![alt text](<Screenshot 2024-04-12 083800.png>)
+
+HOSTNAME:
+![alt text](<Screenshot 2024-04-12 083805.png>)
+
+Result
+Thus Execution of Network commands Performed
